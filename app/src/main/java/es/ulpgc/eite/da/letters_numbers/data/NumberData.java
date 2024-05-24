@@ -2,7 +2,6 @@ package es.ulpgc.eite.da.letters_numbers.data;
 
 import java.math.BigInteger;
 import java.nio.ByteBuffer;
-import java.util.Objects;
 import java.util.UUID;
 
 public class NumberData implements BaseData {

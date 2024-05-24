@@ -1,6 +1,5 @@
 package es.ulpgc.eite.da.letters_numbers.numbers;
 
-import static java.lang.annotation.ElementType.METHOD;
 
 import android.os.Bundle;
 import android.view.View;
